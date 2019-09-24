@@ -41,7 +41,7 @@ export const CardContent = styled.View`
 `;
 
 export const Title = styled.Text`
- font-size: 13px;
+ font-size: 16px;
  color: #999;
 
 `;

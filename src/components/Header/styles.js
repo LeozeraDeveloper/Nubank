@@ -14,7 +14,7 @@ export const Top = styled.View`
 export const Logo = styled.Image``;
 
 export const Title = styled.Text`
-  font-size:10px;
+  font-size:13px;
   color:#FFF;
   font-weight:bold;
   margin-left:8px;
